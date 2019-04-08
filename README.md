@@ -1,2 +1,2 @@
 # javamockstatic
-Mocking &amp; Spying static in java junit powermockito
+Mocking and Spying static in junit powermockito
